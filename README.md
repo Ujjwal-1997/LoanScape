@@ -1,1 +1,1 @@
-# LoanScape
+This is a web app built using Python Flask framework. The app uses custom built prediction machine learning model, trained and evaluated on loan_approval_ds.csv. Code to train and evaluate model is untitled1.ipynb and app.py is main application.
